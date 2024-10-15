@@ -7,8 +7,17 @@ repo: uptime
 sites:
   - name: Google
     url: https://www.google.com
+    icon: https://www.google.com/favicon.ico
   - name: Nikoton
     url: https://nikoton.online
+  - name: Cats
+    url: https://www.catshouse.live/
+  - name: CResuelve Link
+    url: https://cresuelve.github.io/littlelink/
+  - name: CResuelve Page
+    url: https://carlosarsgoetia.github.io/criptoresuelve/
+    
+    
 
 
 
