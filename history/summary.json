@@ -58,18 +58,20 @@
     "url": "https://cresuelve.github.io/littlelink/",
     "icon": "https://icons.duckduckgo.com/ip3/cresuelve.github.io.ico",
     "slug": "c-resuelve-link",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 121,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 80,
+    "timeDay": 80,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
+    "dailyMinutesDown": {
+      "2024-10-15": 0
+    }
   },
   {
     "name": "CResuelve Page",
