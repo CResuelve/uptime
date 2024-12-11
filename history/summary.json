@@ -42,18 +42,20 @@
     "url": "https://www.catshouse.live/",
     "icon": "https://icons.duckduckgo.com/ip3/www.catshouse.live.ico",
     "slug": "cats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 435,
-    "timeWeek": 361,
-    "timeMonth": 358,
-    "timeYear": 375,
-    "dailyMinutesDown": {}
+    "time": 371,
+    "timeDay": 298,
+    "timeWeek": 336,
+    "timeMonth": 352,
+    "timeYear": 371,
+    "dailyMinutesDown": {
+      "2024-12-11": 0
+    }
   },
   {
     "name": "CResuelve Link",
@@ -72,7 +74,7 @@
     "timeMonth": 83,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-12-11": 117,
+      "2024-12-11": 556,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
