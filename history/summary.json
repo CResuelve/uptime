@@ -42,19 +42,19 @@
     "url": "https://www.catshouse.live/",
     "icon": "https://icons.duckduckgo.com/ip3/www.catshouse.live.ico",
     "slug": "cats",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 298,
-    "timeWeek": 336,
-    "timeMonth": 352,
-    "timeYear": 371,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 369,
+    "timeDay": 281,
+    "timeWeek": 326,
+    "timeMonth": 349,
+    "timeYear": 369,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 17
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 83,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-12-11": 556,
+      "2024-12-11": 572,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
